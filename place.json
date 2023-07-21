@@ -1,0 +1,29 @@
+{
+
+  "contact": "r/placeindia",
+
+  "templates": [
+
+    {
+
+      "name": "Ashok Chakra",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1029341931639160932/1131907032098820097/Ashok_Chakra.jpg"
+
+      ],
+
+      "x": 877,
+
+      "y": 242
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
